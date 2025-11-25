@@ -49,6 +49,7 @@ body {
     line-height: var(--line-height-base);
     color: var(--dark);
     background-color: var(--background);
+   background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('assets/images/logos/CUCodingClubBgBanner.jpeg');
 
 }
 
