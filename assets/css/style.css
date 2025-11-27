@@ -49,6 +49,11 @@ body {
     line-height: var(--line-height-base);
     color: var(--dark);
     background-color: var(--background);
+    background-image:url("assets/images/logos/CUCodingClubBgBanner.jpeg" alt="bg image");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+   
   
 }
 
